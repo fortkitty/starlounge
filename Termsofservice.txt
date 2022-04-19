@@ -1,0 +1,10 @@
+By accessing Starlounge or interacting with its repository in any shape, form, or method, it is evident that you agree to these terms and hereby agree to follow such terms (outlined in the file):
+ - You may not alter/edit the Terms of Service or Privacy Policy in no shape, form, or method.
+ - You may not attempt to remove or "bypass" the Terms of Service or Privacy Policy in no shape, form, or method.
+ 
+If you are found to not abide by these terms during your usage of Starlounge, your access to it will be removed. If your actions continue, Starkitty Group will take legal action against you. 
+By forking or in any other way copying the code or work of the starlounge site you agree to use the same terms and the same license.
+This work is licensed under a Creative Commons 1.0 license. Please see license.md for more details regarding your rights and limitations for this work.
+By using starlounge you agree to let your data be processed and handled by github according to their own privacy policy. Please see https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement for more info.
+
+This work may be used for commercial purposed but must STRICTLY follow the rules outlined in the license agreement. Failure to follow these terms will result in the full legal package.
