@@ -8,3 +8,4 @@ This work is licensed under a Creative Commons 1.0 license. Please see license.m
 By using starlounge you agree to let your data be processed and handled by github according to their own privacy policy. Please see https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement for more info.
 
 This work may be used for commercial purposed but must STRICTLY follow the rules outlined in the license agreement. Failure to follow these terms will result in the full legal package.
+If you are an MCPS Staff member or a staff member of any other school in the United States and Canada, please note that we do not endorse or force the use of Starlounge and it's affiliated services during school or work hours.
