@@ -1724,7 +1724,7 @@
 }
 
  .u-section-5-5 {
-  background-image: url("images/ccc.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2)), url("images/unnamed2.jpeg");
   background-position: 50% 50%;
 }
 
@@ -1782,7 +1782,7 @@
 }
 
  .u-section-5-6 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/maxresdefault5.jpeg");
+  background-image: url("images/ccc.png");
   background-position: 50% 50%;
 }
 
@@ -1840,7 +1840,7 @@
 }
 
  .u-section-5-7 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/unnamed1.webp");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.35), rgba(0,0,0,0.35)), url("images/maxresdefault5.jpeg");
   background-position: 50% 50%;
 }
 
@@ -1893,6 +1893,64 @@
   }
 
   .u-section-5-7 .u-text-1 {
+    font-size: 2.75rem;
+  }
+}
+
+ .u-section-5-8 {
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/unnamed1.webp");
+  background-position: 50% 50%;
+}
+
+.u-section-5-8 .u-sheet-1 {
+  min-height: 321px;
+}
+
+.u-section-5-8 .u-text-1 {
+  font-family: "Fuzzy Bubbles";
+  font-size: 4.5rem;
+  margin: 55px auto 0;
+}
+
+.u-section-5-8 .u-btn-1 {
+  background-image: linear-gradient(155deg, #b29a36, #2cccc4);
+  border-style: none;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  margin: 40px auto 60px;
+  padding: 9px 22px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5-8 .u-sheet-1 {
+    min-height: 265px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5-8 .u-sheet-1 {
+    min-height: 203px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5-8 .u-sheet-1 {
+    min-height: 152px;
+  }
+
+  .u-section-5-8 .u-text-1 {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5-8 .u-sheet-1 {
+    min-height: 96px;
+  }
+
+  .u-section-5-8 .u-text-1 {
     font-size: 2.75rem;
   }
 } .u-section-6 {
