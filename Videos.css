@@ -57,21 +57,12 @@
   padding-right: 0;
 }
 
-.u-section-2 .u-text-1 {
-  font-size: 6rem;
-  text-align: justify;
-  font-weight: 700;
-  font-family: Elianto-Regular;
-  width: 294px;
-  margin: 15px auto 0;
-}
-
 .u-section-2 .u-btn-1 {
   border-style: solid;
   font-weight: 700;
-  font-size: 0.9375rem;
+  font-size: 3.75rem;
   background-image: none;
-  margin: 0 auto;
+  margin: 0 -149px;
   padding: 6px 31px 6px 30px;
 }
 
@@ -100,6 +91,11 @@
   .u-section-2 .u-group-1 {
     width: 540px;
   }
+
+  .u-section-2 .u-btn-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
 }
 
 @media (max-width: 575px) {
@@ -110,47 +106,4 @@
   .u-section-2 .u-group-1 {
     width: 340px;
   }
-} .u-section-3 {
-  background-image: linear-gradient(#478ac9, #db545a);
-}
-
-.u-section-3 .u-sheet-1 {
-  min-height: 620px;
-}
-
-.u-section-3 .u-video-1 {
-  width: 1140px;
-  left: -1px;
-  right: auto;
-}
-
-.u-section-3 .embed-responsive-1 {
-  position: absolute;
-  width: 178%;
-  left: -39%;
-  height: 178%;
-  top: -39%;
-}
-
-@media (max-width: 991px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 400px;
-  }
-}
-
-@media (max-width: 767px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 350px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-3 .u-sheet-1 {
-    min-height: 220px;
-  }
-}@font-face {
-  font-family: 'Elianto-Regular';
-  font-style: normal;
-  font-weight: 400;
-  src: url(fonts/Elianto-Regular.ttf);
 }
