@@ -3,13 +3,12 @@
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 48px;
+  min-height: 65px;
 }
 
-.u-section-1 .u-text-1 {
-  font-weight: 900;
-  font-size: 1.5rem;
-  margin: 11px auto;
+.u-section-1 .u-custom-html-1 {
+  margin-bottom: 0;
+  margin-top: 0;
 } .u-section-2 {
   background-image: none;
 }
@@ -24,12 +23,12 @@
   margin: 0 auto;
   padding: 0;
 } .u-section-3 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/516089.png");
+  background-image: linear-gradient(0deg, rgba(0,0,0,0.4), rgba(0,0,0,0.4)), url("images/1767097.jpeg");
   background-position: 50% 50%;
 }
 
 .u-section-3 .u-sheet-1 {
-  min-height: 330px;
+  min-height: 166px;
 }
 
 .u-section-3 .u-text-1 {
@@ -40,29 +39,18 @@
   font-family: Raleway, sans-serif;
   font-weight: 700;
   width: 861px;
-  margin: 55px auto 0;
-}
-
-.u-section-3 .u-text-2 {
-  letter-spacing: 0px;
-  line-height: 1.4;
-  font-weight: 300;
-  font-size: 1.875rem;
-  font-family: Lato, sans-serif;
-  text-transform: none;
-  width: 714px;
-  margin: 55px auto 60px;
+  margin: 56px auto;
 }
 
 @media (max-width: 1199px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 272px;
+    min-height: 137px;
   }
 }
 
 @media (max-width: 991px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 208px;
+    min-height: 105px;
   }
 
   .u-section-3 .u-text-1 {
@@ -72,31 +60,22 @@
 
 @media (max-width: 767px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 156px;
+    min-height: 79px;
   }
 
   .u-section-3 .u-text-1 {
-    width: 540px;
-  }
-
-  .u-section-3 .u-text-2 {
     width: 540px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-3 .u-sheet-1 {
-    min-height: 98px;
+    min-height: 50px;
   }
 
   .u-section-3 .u-text-1 {
     font-size: 2.25rem;
     width: 340px;
-  }
-
-  .u-section-3 .u-text-2 {
-    width: 340px;
-    font-size: 1.5rem;
   }
 }.u-block-bb74-2 {
   position: absolute;
@@ -123,8 +102,8 @@
 }
 
 .u-section-4-1 .u-text-1 {
-  font-family: Flamenco;
-  font-size: 3.75rem;
+  font-size: 3.125rem;
+  font-family: "Varela Round";
   margin: 60px 92px;
 }
 
@@ -267,7 +246,7 @@
 
 .u-section-5 .u-text-1 {
   text-transform: uppercase;
-  font-size: 6rem;
+  font-size: 4.75rem;
   font-weight: 700;
   margin: 60px 44px;
 }
@@ -332,7 +311,7 @@
 }
 
 .u-section-6 .u-text-1 {
-  font-family: "Imperial Script";
+  font-family: "Almendra SC";
   font-size: 5.625rem;
   margin: 32px 4px 0;
 }
@@ -343,9 +322,8 @@
 
 .u-section-6 .u-image-1 {
   min-height: 431px;
-  background-image: url("images/Screenshot_2022-05-05_1.32.39_PM-removebg-preview.png");
-  background-position: 56.77% 100%;
-  background-size: auto 110%;
+  background-image: url("images/Untitleddrawing3.png");
+  background-position: 54.22% 50%;
 }
 
 .u-section-6 .u-container-layout-2 {
@@ -368,6 +346,7 @@
 
   .u-section-6 .u-image-1 {
     min-height: 355px;
+    background-size: auto 110%;
   }
 }
 
